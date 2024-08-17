@@ -37,7 +37,7 @@
     "joi": "^13.1.2",
     "json-stable-stringify": "1.0.1",
     "node-anonize2-relic-emscripten": "^0.3.3",
-    "underscore": "1.8.3",
+    "underscore": "1.13.7",
     "uuid": "3.1.0"
   },
   "engines": {
