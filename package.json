@@ -33,7 +33,7 @@
     "@ambassify/backoff-strategies": "1.0.0",
     "bat-balance": "^1.0.7",
     "brave-crypto": "^0.2.0",
-    "http-request-signature": "0.0.2",
+    "http-request-signature": "0.0.5",
     "joi": "^13.1.2",
     "json-stable-stringify": "1.0.1",
     "node-anonize2-relic-emscripten": "^0.3.3",
